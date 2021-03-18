@@ -3,6 +3,9 @@ The API works by calling Azure cognitive services face detection and stores user
 
 *********************************************************************************************
 To try out:
+
+Create Docker network --- "face-detect-network"
+
 Send POST request to /api/user
 
 body:
